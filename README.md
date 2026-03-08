@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm Muhamad Zaguar
 
-<!--
-**MuhamadZaguar/MuhamadZaguar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Developer | Machine Learning Enthusiast | IT Student
 
-Here are some ideas to get you started:
+I specialize in building intelligent systems using Artificial Intelligence and Machine Learning.  
+My goal is to create technology that can automate processes, analyze data, and solve complex real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Expertise
+- Artificial Intelligence
+- Machine Learning
+- Data Analysis
+- AI-based Application Development
+
+---
+
+## 💻 Tech Stack
+Python • Machine Learning • TensorFlow • Pandas • NumPy • JavaScript • MySQL • Git
+
+---
+
+## 🔬 Current Interests
+- Deep Learning
+- AI Automation
+- Predictive Modeling
+- Intelligent Web Systems
