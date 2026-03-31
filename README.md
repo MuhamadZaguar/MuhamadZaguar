@@ -1,47 +1,89 @@
-# Hello World! I'm Muhamad Zaguar Abdillah Lubis 👋
+# 👋 Hi, I'm Muhamad Zaguar Abdillah Lubis
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MuhamadZaguar&label=Profile%20Views&color=0e75b6&style=flat" alt="MuhamadZaguar" />
-</p>
-
-### 🚀 Future AI Engineer | IT Support Specialist | Web Developer
-
-I am a **Computer and Network Engineering** graduate with a strong passion for Artificial Intelligence and Web Technologies. I have hands-on experience in **IT Support** and a proven track record of leadership as a former **Chairman of the Student Council (Ketua OSIS)**.
+🎓 Mahasiswa IT | 💻 Full Stack Developer | 🤖 AI Enthusiast
 
 ---
 
-### 🛠️ Technical Skills
+## 🚀 About Me
 
-- **IT Support & Networking:** Troubleshooting (Hardware/Software), LAN Configuration, IP Addressing, Database Backup.
-- **Web Development:** HTML5, CSS3, JavaScript (ES6+), PHP, Python.
-- **Tools & Core:** Microsoft Excel, AI Fundamentals, LocalStorage Management.
-
----
-
-### 🎓 Featured Certifications
-
-- **Artificial Intelligence Technology and Applications** – *Huawei ICT Academy*.
-- **National Seminar on AI:** Opportunities, Challenges, and Implementation – *STTI Sony Sugema*.
+* 🎓 Mahasiswa di bidang IT
+* 💡 Tertarik pada Web Development & Machine Learning
+* 🔭 Sedang mengembangkan project berbasis AI & Website
+* ⚡ Suka belajar teknologi baru dan membangun portfolio
 
 ---
 
-### 📂 Featured Project: EasyAbsen
+## 🛠️ Tech Stack
 
-**[EasyAbsen](https://github.com/MuhamadZaguar/EasyAbsen)** is a web-based digital attendance system designed to simplify presence tracking.
-- **Key Features:** Multi-role authentication, responsive UI design, and LocalStorage-based data management.
-- **Tech Stack:** HTML, CSS, JavaScript.
+**Languages:**
+
+* JavaScript
+* Python
+* Java
+
+**Frontend:**
+
+* HTML
+* CSS
+* React
+
+**Backend:**
+
+* Node.js
+* Express.js
+
+**Database:**
+
+* MySQL
+* MongoDB
+
+**Tools:**
+
+* Git
+* VS Code
 
 ---
 
-### 📫 Let's Connect!
+## 📂 Projects
 
-- **Email:** [muhamadzaguar77@gmail.com](mailto:muhamadzaguar77@gmail.com)
-- **Location:** Pasteur, Bandung, Jawa Barat
-- **Instagram:** [@jegerr_77](https://instagram.com/jegerr_77)
+### 🔹 Prediksi Harga Rumah
+
+* Machine Learning project untuk memprediksi harga rumah
+* Menggunakan Python & Scikit-learn
+
+### 🔹 Website Portfolio
+
+* Website personal menggunakan HTML, CSS, dan JavaScript
+* Responsive design
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhamadZaguar&show_icons=true&theme=radical" alt="Zaguar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadZaguar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 📜 Certificates
+
+* Machine Learning - Dicoding
+  [View Certificate](https://github.com/username/certificates/blob/main/certificates/sertifikat-ml.pdf)
+
+* Web Development - Coursera
+  [View Certificate](https://github.com/username/certificates/blob/main/certificates/sertifikat-web.pdf)
+
+---
+
+## 🏆 Experience
+
+### Ketua OSIS
+
+* Memimpin organisasi sekolah
+* Mengelola program kerja dan event
+* Melatih kepemimpinan dan komunikasi
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* 💻 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+
+---
+
+⭐ "Keep learning, keep building, and never stop growing."
