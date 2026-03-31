@@ -1,89 +1,56 @@
-# 👋 Hello, I'm Muhamad Zaguar Abdillah Lubis
+# Hello World! I'm Muhamad Zaguar Abdillah Lubis 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Machine+Learning+Developer;IT+Student;Future+AI+Engineer" alt="Typing SVG" />
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MuhamadZaguar&label=Profile%20Views&color=0e75b6&style=flat" alt="MuhamadZaguar" />
+</p>
 
----
+### 🚀 Future AI Engineer | IT Support Specialist | Web Developer
 
-## 🚀 About Me
-
-I'm an **Information Technology student from Indonesia** who is passionate about **Artificial Intelligence, Machine Learning, and modern web technologies**.
-
-I enjoy building intelligent systems, analyzing data, and developing applications that can solve real-world problems using technology.
-
-### 🎯 Current Focus
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Analysis & Predictive Modeling
-- 🌐 Web Development
-- 🧠 Learning Deep Learning and AI systems
+[cite_start]I am a **Computer and Network Engineering** graduate with a strong passion for Artificial Intelligence and Web Technologies[cite: 4, 34, 35]. [cite_start]I have hands-on experience in **IT Support** and a proven track record of leadership as a former **Chairman of the Student Council (Ketua OSIS)**[cite: 10, 17, 41, 48].
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### **AI / Machine Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### **Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- [cite_start]**IT Support & Networking:** Troubleshooting (Hardware/Software), LAN Configuration, IP Addressing, Database Backup[cite: 23, 46, 56].
+- [cite_start]**Web Development:** HTML5, CSS3, JavaScript (ES6+), PHP, Python[cite: 23, 57].
+- [cite_start]**Tools & Core:** Microsoft Excel, AI Fundamentals, LocalStorage Management[cite: 24, 31, 58, 69].
 
 ---
 
-## 📊 GitHub Stats
+### 🎓 Featured Certifications
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" />
-
-</div>
+- [cite_start]**Artificial Intelligence Technology and Applications** – *Huawei ICT Academy*[cite: 26, 60].
+- [cite_start]**National Seminar on AI:** Opportunities, Challenges, and Implementation – *STTI Sony Sugema*[cite: 26, 61].
 
 ---
 
-## 🧠 AI Projects I'm Interested In
+### 📂 Featured Project: EasyAbsen
 
-- 📈 **House Price Prediction (Machine Learning)**
-- 🤖 **AI Chatbot**
-- 🧠 **Image Classification with Deep Learning**
-- 📊 **Data Analysis Projects**
-- 🌐 **AI-powered Web Applications**
+[cite_start]**[EasyAbsen](https://github.com/MuhamadZaguar/EasyAbsen)** is a web-based digital attendance system designed to simplify presence tracking[cite: 28, 63, 64].
+- [cite_start]**Key Features:** Multi-role authentication, responsive UI design, and LocalStorage-based data management[cite: 30, 65, 66, 68].
+- [cite_start]**Tech Stack:** HTML, CSS, JavaScript[cite: 31, 69].
 
 ---
 
-## 🌍 Let's Connect
+### 💼 Professional Experience & Leadership
 
-<div align="center">
-
-<a href="https://github.com/USERNAME">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
+- [cite_start]**IT Support Intern** at **RSKB Columbia Asia Pulomas**[cite: 10, 41].
+  - [cite_start]Solved IT issues for 10+ users daily and managed critical database backups[cite: 14, 15, 45, 46].
+- [cite_start]**Chairman of Student Council (Ketua OSIS)** at **SMK Budi Mulya Karawang**[cite: 17, 48].
+  - [cite_start]Led student organizations, coordinated major events, and acted as a bridge between students and school administration[cite: 18, 19, 49, 52].
 
 ---
 
-<div align="center">
+### 📫 Let's Connect!
 
-⭐ *Always learning, always building, always improving.*
+- [cite_start]**Email:** [muhamadzaguar77@gmail.com](mailto:muhamadzaguar77@gmail.com) [cite: 2, 32]
+- [cite_start]**Location:** East Jakarta, Indonesia [cite: 2, 32]
+- **LinkedIn:** [Your LinkedIn Profile Link Here]
 
-</div>
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhamadZaguar&show_icons=true&theme=radical" alt="Zaguar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadZaguar&layout=compact&theme=radical" alt="Top Languages" />
+</p>
