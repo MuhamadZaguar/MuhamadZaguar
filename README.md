@@ -5,15 +5,15 @@
 
 ### 🎓 IT Student | 💻 Future AI Engineer | 🤖 Web Developer
 
-[cite_start]I am a **Computer and Network Engineering** graduate with a passion for building intelligent systems and modern web applications[cite: 32, 34, 38]. [cite_start]I combine technical expertise in **IT Support** with leadership experience to deliver impactful digital solutions[cite: 34, 41, 48].
+I am a **Computer and Network Engineering** graduate with a passion for building intelligent systems and modern web applications. I combine technical expertise in **IT Support** with leadership experience to deliver impactful digital solutions.
 
 ---
 
 ## 🚀 About Me
-* [cite_start]🎓 **Education:** Information Technology student, graduated from SMK Budi Mulya Karawang[cite: 32, 38].
-* [cite_start]💡 **Interests:** Deeply interested in **Machine Learning**, **Artificial Intelligence**, and **Full-stack Development**[cite: 36, 57, 58].
-* [cite_start]🔭 **Current Focus:** Developing AI-based projects and enhancing web performance[cite: 36, 63].
-* [cite_start]⚡ **Fact:** Former **Chairman of the Student Council** with strong communication and team coordination skills[cite: 48, 52].
+* 🎓 **Education:** Information Technology student, graduated from SMK Budi Mulya Karawang.
+* 💡 **Interests:** Deeply interested in **Machine Learning**, **Artificial Intelligence**, and **Full-stack Development**.
+* 🔭 **Current Focus:** Developing AI-based projects and enhancing web performance.
+* ⚡ **Fact:** Former **Chairman of the Student Council** with strong communication and team coordination skills.
 
 ---
 
@@ -37,10 +37,10 @@
 ## 📂 Featured Projects
 
 ### 🔹 [EasyAbsen](https://github.com/MuhamadZaguar/EasyAbsen)
-[cite_start]**Digital Attendance System** [cite: 63]
-* [cite_start]🛠️ **Tech:** HTML, CSS, JavaScript, LocalStorage[cite: 69].
-* [cite_start]✨ **Features:** Multi-role authentication and responsive modern UI[cite: 65, 66].
-* [cite_start]📈 **Impact:** Improved attendance tracking efficiency compared to manual methods[cite: 67].
+**Digital Attendance System**
+* 🛠️ **Tech:** HTML, CSS, JavaScript, LocalStorage.
+* ✨ **Features:** Multi-role authentication and responsive modern UI.
+* 📈 **Impact:** Improved attendance tracking efficiency compared to manual methods.
 
 ---
 
