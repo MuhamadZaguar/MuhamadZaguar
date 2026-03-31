@@ -80,9 +80,8 @@
 
 ## 📫 Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* 💻 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+* 📧 Email: [your-email@example.com](muhamadzaguar77@gmail.com)
+* 💻 GitHub: [https://github.com/yourusername](https://github.com/MuhamadZaguar)
 
 ---
 
