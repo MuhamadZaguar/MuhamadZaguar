@@ -54,13 +54,6 @@ I am a **Computer and Network Engineering** graduate with a passion for building
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhamadZaguar&show_icons=true&theme=radical&hide_border=true" alt="Zaguar GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadZaguar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Connect With Me
 <p align="left">
