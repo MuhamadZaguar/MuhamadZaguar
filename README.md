@@ -60,10 +60,10 @@
 
 ## 📜 Certificates
 
-* Machine Learning - Dicoding
+* Artificial Intelligence Technology and Applications - Huawei ICT Academy
   [View Certificate](https://github.com/username/certificates/blob/main/certificates/sertifikat-ml.pdf)
 
-* Web Development - Coursera
+* Seminar Nasional Artificial Intelligence - STTI Sony Sugema
   [View Certificate](https://github.com/username/certificates/blob/main/certificates/sertifikat-web.pdf)
 
 ---
@@ -80,8 +80,8 @@
 
 ## 📫 Connect With Me
 
-* 📧 Email: [your-email@example.com](muhamadzaguar77@gmail.com)
-* 💻 GitHub: [https://github.com/yourusername](https://github.com/MuhamadZaguar)
+* 📧 Email: [muhamadzaguar77@gmail.com](muhamadzaguar77@gmail.com)
+* 💻 GitHub: [https://github.com/MuhamadZaguar](https://github.com/MuhamadZaguar)
 
 ---
 
